@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica2", "Practica2\Practica2.csproj", "{30FB4E8C-6649-4798-93A5-FAD9A909E551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FB4E8C-6649-4798-93A5-FAD9A909E551}.Debug|x86.ActiveCfg = Debug|x86
+		{30FB4E8C-6649-4798-93A5-FAD9A909E551}.Debug|x86.Build.0 = Debug|x86
+		{30FB4E8C-6649-4798-93A5-FAD9A909E551}.Release|x86.ActiveCfg = Release|x86
+		{30FB4E8C-6649-4798-93A5-FAD9A909E551}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Practica2\Practica2.csproj
+	EndGlobalSection
+EndGlobal
